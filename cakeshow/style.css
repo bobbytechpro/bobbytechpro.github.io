@@ -422,7 +422,7 @@ code, pre{
     .showcase-text{
         text-align: center;
         margin-top: 40px;
-        animation: slideInFromLeft 2s ease-in;
+        animation: slideInFromLeft 1s ease-in;
         
     }
 
@@ -524,7 +524,7 @@ code, pre{
 /*Mobile*/
 @media (max-width:500px) {
     .section-p1{
-        padding: 20px;
+        padding: 15px;
     }
     .navbar{
         height: 110px;
@@ -558,11 +558,11 @@ code, pre{
 
     #language .fe-box {
         width: 155px;
-        margin:0 0 15px 0;
+        margin:0 15px 0;
     } 
 
     .showcase-text{
-        font-size: 15px;
+        font-size: 10px;
     }
     
     .showcase{
